@@ -35,7 +35,7 @@
     "@tryghost/zip": "1.1.30",
     "bluebird": "3.7.2",
     "chalk": "5.2.0",
-    "fs-extra": "10.1.0",
+    "fs-extra": "11.1.0",
     "glob": "8.0.3",
     "inquirer": "9.1.4",
     "inquirer-datepicker-prompt": "0.4.3",
